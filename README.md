@@ -16,6 +16,8 @@ Website consists of:
 
 - Contact section with a form for students to reserve slots for events they want to participate in.
 
+- Jobs Section with gives them an array of Job Opportunities to apply for
+
 Users should be able to:
 
 - View the optimal layout for the content depending on their device's screen size
@@ -26,8 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![website](https://github.com/Justice00000/HTML-CSS-Contest/assets/133651805/85bb4696-19ee-4f37-ba08-9ac11057be87)
-
+![website](https://github.com/lasgedu/HTML-CSS-Contest/assets/133651805/85bb4696-19ee-4f37-ba08-9ac11057be87)
 
 
 ### Links

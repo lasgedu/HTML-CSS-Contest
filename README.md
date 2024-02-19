@@ -1,6 +1,6 @@
 # html-css-contest
 
-## Website for university alumni
+## Website For University Alumni
 
 This is a website for university alumni that will let students check upcoming events which include campus events and professional development and Alumni Co-pereation and JobHunt.
 

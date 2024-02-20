@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![website](https://github.com/lasgedu/HTML-CSS-Contest/assets/133651805/85bb4696-19ee-4f37-ba08-9ac11057be87)
+![website](https://lasgedu.github.io/HTML-CSS-Contest/#home)
 
 
 ### Links

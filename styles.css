@@ -195,15 +195,18 @@ header {
   color: #fff;
   font-size: 82px;
   padding-top: 185px;
-  padding-left: 100px;
+  padding-left: 20px; /* Adjust padding-left */
+  padding-right: 20px; /* Add padding-right */
   padding-bottom: 20px;
-  text-align: center;
+  text-align: center; /* Center the text */
 }
 
 .welcome p {
   color: #fff;
   font-size: 23px;
-  padding-left: 120px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center; /* Center the text */
 }
 /* events */
 #events-section h1 {

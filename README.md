@@ -30,7 +30,6 @@ Users should be able to:
 
 ![website](https://lasgedu.github.io/HTML-CSS-Contest/#home)
 
-
 ### Links
 
 

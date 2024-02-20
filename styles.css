@@ -31,7 +31,7 @@ body, h1, h2, h3, p, ul, li {
       url('image/welcome.jpg');
   background-blend-mode: normal, color;
   background-repeat: no-repeat;
-  filter: grayscale(100%);
+  filter: rgba(100%);
   background-size: cover;
   /*background-size: 100% 1023px;*/
   z-index: -1;

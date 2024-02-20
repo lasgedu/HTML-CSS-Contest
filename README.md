@@ -26,9 +26,9 @@ Users should be able to:
 
 - Reserve slots for events using our forms
 
-### Screenshot
+### Website URL
 
-![website](https://lasgedu.github.io/HTML-CSS-Contest/#home)
+Visit The Website [https://lasgedu.github.io/HTML-CSS-Contest/]
 
 ### Links
 
